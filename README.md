@@ -1,4 +1,8 @@
-## Hi there 👋
+👋 Hi! I'm @lindattt
+
+📁 Here you can find both my personal and university projects.
+
+📚 I'm intrested in complex systems, information theory, machine learning and data science.
 
 <!--
 **lindattt/lindattt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
