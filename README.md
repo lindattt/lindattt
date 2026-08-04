@@ -1,8 +1,8 @@
-👋 Hi! I'm @lindattt
+👋 Hi! I'm **@lindattt**, MSc Physics student with a growing interest in data science, statistical modeling and computational methods.
 
-📁 Here you can find both my personal and university projects.
+📚 This GitHub documents my learning journey, from university coursework to my master's thesis and personal projects. 
 
-📚 I'm intrested in complex systems, information theory, machine learning and data science.
+✏️ I enjoy building well-documented, reproducible code and continuously improving my technical workflow.
 
 <!--
 **lindattt/lindattt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
