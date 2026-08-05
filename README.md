@@ -2,9 +2,11 @@
 
 📊 MSc Physics student with a growing interest in **data science**, **statistical modeling** and **computational methods**.
 
-📚 Here you'll find **selected university projects** and, over time, the work developed during my **master's thesis**.
-
 ✏️ I enjoy handling **quantitative problems**, writing **reproducible code** with clear **technical documentation** and improving my **workflows** for learning and programming.
+
+📚 Here you'll find selected **university coursework** and, over time, the work developed during my **master's thesis** along with some **personal projects**.
+
+
 
 
 
